@@ -8,7 +8,6 @@ public interface ItemsDao {
 
     /*
     * 查询所有
-    * @return
     * */
     List<Items> findAll();
 
